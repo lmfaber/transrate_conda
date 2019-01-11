@@ -1,0 +1,14 @@
+package:
+ name: transrate
+ version: "1.0.3"
+
+source:
+ fn: transrate-1.0.3.tar.gz
+ url: https://bintray.com/artifact/download/blahah/generic/transrate-1.0.3-linux-x86_64.tar.gz
+ sha1: 3d68333818a8ed99bd4012acb8177888f1c9f01a
+
+about:
+ home: https://github.com/blahah/transrate
+ license: MIT
+ license_file: LICENSE
+ summary: transrate assembly evaluation
